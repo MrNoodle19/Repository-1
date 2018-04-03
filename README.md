@@ -1,2 +1,5 @@
-# Repository-1
-First repository
+# hello-world
+
+hi, 
+
+  im just here because coding sounded pretty fun
